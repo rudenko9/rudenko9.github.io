@@ -1,11 +1,11 @@
 # Site settings
-author: Nataliya R
-title: 
+author: Nataliya Rudenko
+title: CLI project
 header-img: img/home-bg.png
 email: n.rudenko@gmail.com
-copyright_name: Nataliya R
+copyright_name: Nataliya Rudenko
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Short description of my first ClI project and some tips for students
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rudenko9
